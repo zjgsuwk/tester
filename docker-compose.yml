@@ -2,7 +2,7 @@ version: "3"
 services:
 
   yiluzhuanqian:
-    image: firstbloodand001:yiluzhuanqian
+    image: firstbloodand001/yiluzhuanqian
     ports:
       - "8080"
     deploy:
